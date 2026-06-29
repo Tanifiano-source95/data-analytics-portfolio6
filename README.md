@@ -1,4 +1,4 @@
-## Project 04 - SQL Healthcare & Employment Analysis - Benin
+## Project 06 - SQL Healthcare & Employment Analysis - Benin
 
 ### Tools Used
 - DB Browser for SQLite
